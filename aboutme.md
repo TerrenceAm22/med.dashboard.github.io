@@ -11,6 +11,6 @@ My name is Terrence Allen Malone II
 
 What else do you need?
 
-### my history
+### My History
 
 I am only 22 years old, so I don't have a lot history yet.
