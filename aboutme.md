@@ -4,13 +4,13 @@ title: About me
 subtitle: Hey, It's Terrence
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Terrence Allen Malone II
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I have a passion for Technology & Cars
+- Passionate about my future goals
 
 What else do you need?
 
 ### my history
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am only 22 years old, so I don't have a lot history yet.
